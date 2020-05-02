@@ -1,0 +1,14 @@
+.navBar {
+    background-color: tomato;
+    height: 40px;
+    display: grid;
+    border: 1px solid white;
+}
+
+img {
+    height: 30px;
+    justify-self: center;
+    align-self: center;
+    opacity: .8;
+}
+
